@@ -24,8 +24,8 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 </head>
     <div class="container">
-        <h3>Welcome to Talk_To_Us! We give diverse information on Tech topics and insights.</h3>
-		<h3>Fill in below to get a softcopy of our newsletter every week!</h3>
+        <h3>Welcome to my porfolio I give diverse information on Tech topics and insights.</h3>
+		<h3>Fill in below to get a softcopy of our newsletter every week Or Enquire more</h3>
         <form action="form-process.php" method="POST">
             <div class="form-group">
                 <label for="firstname">Firstname</label>
@@ -114,7 +114,19 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 </script>
-	 --!>			
+			 <!-- FOOTER -->
+     <footer class="footer py-5">
+          <div class="container">
+               <div class="row">
+
+                    <div class="col-lg-12 col-12">                                
+                        <p class="copyright-text text-center">Copyright &copy; 2023 Peter Ndiga . All rights reserved</p>
+                        <p class="copyright-text text-center">Designed by <a rel="nofollow" href="https://www.facebook.com/peter">Peter Ndiga</a></p>
+                    </div>
+                    
+               </div>
+          </div>
+     </footer>
 </body>
 </html>
 	
