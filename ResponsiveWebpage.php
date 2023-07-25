@@ -9,7 +9,7 @@
 	<div class="main">
 		<div class ="navbar">
 			<div class ="icon">
-				<h2 class = "logo"><a href="contactpage.html">Talk_To_Us</a></h2>
+				<h2 class = "logo"><a href="index.html">Talk_To_me</a></h2>
 			</div>
 	
 			<div class="menu">
